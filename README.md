@@ -1,3 +1,5 @@
 # the-manual
 
-I finally decided that I want to write out my ideas in a cohesive way
+I finally decided that I want to write out my ideas in a cohesive way.
+
+- [intro](/intro.md)
