@@ -1,0 +1,47 @@
+# http://editorconfig.org
+
+# 2023-05-19 14:22 - realisation that this is to configure editors
+#   seems kinda obvious don't it, but it never occurred to me that these could be 'vscode_' or 'vs_' prefix is available, ex. 'vs_editor.files.insertFinalNewline = true' is possible for the other settings as well.
+#    it also seems kinda obvious that the shorts like 'insert_final_newline' (aliases could be defined, like by default the `insert_final_newline = vs_editor.files.insertFinalNewline`)
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+# 2023-05-19 14:?? - disabled
+#   disabled because if my cursor at the last line, it takes my cursor to the new line, instead of leaving my cursor where it is (not sure if vscode or ext bug, but vscode pref does it perfectly)
+# ----
+# insert_final_newline = true
+
+# Use 4 spaces for the Python files
+[*.py]
+indent_size = 4
+max_line_length = 80
+
+# The JSON files contain newlines inconsistently
+[*.json]
+insert_final_newline = ignore
+
+# Minified JavaScript files shouldn't be changed
+[**.min.js]
+indent_style = ignore
+insert_final_newline = ignore
+
+# Makefiles always use tabs for indentation
+[Makefile]
+indent_style = tab
+
+# Batch files use tabs for indentation
+[*.bat]
+indent_style = tab
+
+[*.md]
+# 2023-05-29 enabled
+# enabled because I don't like it. it really annys me, actually, and I don't know why
+# I like my line ends to be void space, not real space
+trim_trailing_whitespace = true
+
