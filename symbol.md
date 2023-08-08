@@ -7,3 +7,4 @@ one can think of each symbol performing like an atom does where it emits only on
   we stacCk these symbols up on top of each other in a narrative, and the symbolic *"the way it is, cause it's like that*; those add up to be a spectrum that is something *like white*, but NOT white/right/good.
   pure desire is a continuous spectrum, and stars compete with each other on who can be more *white*; it's a bunch of females, and they're vvery wwhite spremistt. a real menace. anyway...
     the way that one can emit and also receive (because, like carbon) because a perfect emitter is also a perfect absorber. there's no way AROUND (tthat's cool) it, and so you can imagine that all those that emit a more and m6re perfect *"white light*" that is, a CONTINUOUS SPECTRUM.
+      - reminder: macro system so that I can express larger things with a different sequence.
