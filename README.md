@@ -4,4 +4,4 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 
 - [intro](/intro.md)
 - [desire (1)](/desire.md)
-- [belief (3)](/belief.md)
+- [belief (3)](/belief.md)-[symbol](/symbol.md)
