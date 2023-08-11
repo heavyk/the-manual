@@ -4,5 +4,5 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 
 - [intro](/intro.md)
 - (1) [desire](/desire.md)
-- (2) [relational](/relational.md)
+- (2) [relational](/relational.md)/[motivation](/motivation.md)
 - (3) [belief](/belief.md)/[symbol](/symbol.md)
