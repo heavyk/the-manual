@@ -6,3 +6,4 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 - (1) [desire](/desire.md)
 - (2) [relational](/relational.md)/[motivation](/motivation.md)
 - (3) [belief](/belief.md)/[symbol](/symbol.md)
+- (5) [conceptual](/concept.md)/[emotion](/emotion.md)
