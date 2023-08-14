@@ -8,6 +8,9 @@
 #### topics
 - 7th rays want to know what you want/desire, to turn that into physical/conceptual reality
 - concept and symbol differences can also be illustrated from outside-in or inside-out
+- all physical reality is *received* (the body is an array of sensors and antennas)
+  - I can choose what I want to attract (1), by choosing how I want to perceive (2) everything in my experience.
+  - all perception (2) is conceptual (5)
 
 #### improvements
 - explain that this is the-manual (to the way I conceptualise reality)

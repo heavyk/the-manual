@@ -7,3 +7,4 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 - (2) [relational](/relational.md)/[motivation](/motivation.md)
 - (3) [belief](/belief.md)/[symbol](/symbol.md)
 - (5) [conceptual](/concept.md)/[emotion](/emotion.md)
+- (6) [astral](/astral.md)/[imaginary](/imaginary.md)
