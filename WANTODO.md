@@ -6,7 +6,6 @@
 - (3) archetype (protocol)
 
 #### topics
-- pure desire as how I want to feel
 - 7th rays want to know what you want/desire, to turn that into physical/conceptual reality
 - concept and symbol differences can also be illustrated from outside-in or inside-out
 
