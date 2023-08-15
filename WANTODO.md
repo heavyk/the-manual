@@ -11,6 +11,8 @@
 - all physical reality is *received* (the body is an array of sensors and antennas)
   - I can choose what I want to attract (1), by choosing how I want to perceive (2) everything in my experience.
   - all perception (2) is conceptual (5)
+- any translation of a concept we do is *always* outdated, because of evolution-of-desire and our physical senses capacity to *receive* that concept (limitation of the antenna)
+  - concept&physical are mostly *received*, whereas symbol&desire are mostly *emitted* (which is why humans don't glow).
 
 #### improvements
 - explain that this is the-manual (to the way I conceptualise reality)
