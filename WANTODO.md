@@ -6,13 +6,15 @@
 - (3) archetype (protocol)
 
 #### topics
-- 7th rays want to know what you want/desire, to turn that into physical/conceptual reality
+- 7th rays want to figure out what is wanted/desired, and then turn that into physical/conceptual reality. (just like concepts want to know symbols and vice-versa)
 - concept and symbol differences can also be illustrated from outside-in or inside-out
 - all physical reality is *received* (the body is an array of sensors and antennas)
   - I can choose what I want to attract (1), by choosing how I want to perceive (2) everything in my experience.
   - all perception (2) is conceptual (5)
 - any translation of a concept we do is *always* outdated, because of evolution-of-desire and our physical senses capacity to *receive* that concept (limitation of the antenna)
   - concept&physical are mostly *received*, whereas symbol&desire are mostly *emitted* (which is why humans don't glow).
+- difference between symbolic/logical and conceptual/feeling thinking
+  - conceptul logic (and how I experience things like comparison of frequencies -- musicians and others have the same ability for identifying sound/notes)
 
 #### improvements
 - explain that this is the-manual (to the way I conceptualise reality)
