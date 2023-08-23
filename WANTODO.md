@@ -21,6 +21,7 @@
 - track usage of "you" (fine inside quotes, but otherwise I want to speak only in 1st person)
 - add glossary/keywords which map all the synonyms to their articles (RegEx matching)
   - symbol: symbolic, symbolises, etc.
+- parse the document, and find links to concepts (word-word) and ideas (/file.md) that don't exist (for completeness)
 
 #### interface
 - parse and render markdown into html elements (complete with links and popups like wikipedia and stuff)
