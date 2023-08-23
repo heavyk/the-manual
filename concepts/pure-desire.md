@@ -1,9 +1,9 @@
-# cconcepts
+# pure-desire
 
 ### 2023-08-23 00:26 - I am pure desire
 
 I want to always be in reality: never any fiction, or play, or any misrepresentations of what-is -- but always *reality*; only what can be experienced directly. the most materialistic of all. fiction and the imagination just simply don't do it for m5 anymore.
-  I was reading a little earlier about this guy dudly-do-right" (can't remember how to spell it), and I get the guy, but he lived so completely in his head, that his entire like was a literary creation completely of his own imagination.
+  I was reading a little earlier about this guy dudly-do-right (can't remember how to spell it), and I get the guy, but he lived so completely in his head, that his entire like was a literary creation completely of his own imagination.
   I don't want to be like that. I abhore that kind of living, because now I'm simply enjoying the "real" reality: the one that I love so much.
     to explain this, I have to invoke a future concepct I have yet to write, but it essentially goes something like this: because of my no-pinecone predicament, I basically live the life of extreme YHVH where my physical reality has essentially a giant compressor on it, just like an audio compressor, it takes all amplitudes that are past the physical, get tturned into their conceptual equivalent/feeling of the emotional response:
       - notice how when there are negative emotional reactions to thoughts that I think, in the form of sounds, and wind, and other such things: essentially strong emotion produces a physical response.

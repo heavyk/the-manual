@@ -8,3 +8,7 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 - (3) [belief](/belief.md)/[symbol](/symbol.md)
 - (5) [conceptual](/concept.md)/[emotion](/emotion.md)
 - (6) [astral](/astral.md)/[imaginary](/imaginary.md)
+
+concepts:
+- I am [pure-desire](/concepts/pure-desire.md)
+- I am [pure-evil](/concepts/pure-evil.md)
