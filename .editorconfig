@@ -45,3 +45,6 @@ indent_style = tab
 # I like my line ends to be void space, not real space
 trim_trailing_whitespace = true
 
+# Use 1 spaces for the Prose files
+[prose/*]
+indent_size = 1
