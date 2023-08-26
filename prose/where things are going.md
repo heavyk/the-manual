@@ -78,4 +78,5 @@ it took me a lot of patten matching to begin to start anticipating desire, becau
 
 it's pretty easy to see how [...] because Everyone wants to have more things revolving around them (co-dependency): cause I've got influence on them. I have a large gavity that I exert on them, which causes them to have to conform to how attractive and repulsive I am, by generating a rejection frequency which becomes their own attraction and repulsion.
  we all want our perceived individuality, just like our anticedents: everything in the universe that wants to be individual, is because of the nature of vibration and attraction/conformance: we all want to be selfish and do things our own way, which is perfect, because that's cause we're all individuals; those that don't know they're individuals, know who they're a part of, and so the group of them (drawn differently by everwyone) is the individual.
- we all want to be Individual, and that's because we're a real thing: a big deal deal: an influencer. others exist because I exist.                     that's a funny thought.
+ we all want to be Individual, and that's because we're a real thing: a big deal deal: an influencer.             others exist because I exist.         that's a funny thought.
+                                                    
