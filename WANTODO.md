@@ -16,6 +16,7 @@
 - difference between symbolic/logical and conceptual/feeling thinking
   - conceptul logic (and how I experience things like comparison of frequencies -- musicians and others have the same ability for identifying sound/notes)
 - pure desire, centre perspective, and what it's like to see the relational from the perspective of pure desire: I want the best for everyone and I love to see all things in motion/chaos toward improvement/expansion/realisation.
+- pure-evil always gets defeated by "good"
 
 #### improvements
 - explain that this is the-manual (to the way I conceptualise reality)
