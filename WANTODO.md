@@ -1,5 +1,10 @@
 # WANTODO
 
+#### disclaimers
+- explain that this is *my* the-manual (ie, to the way that *I* conceptualise reality).
+- explain that none of this is scientific fact (not even close); instead, it's just how I perceive these ideas conceptually.
+  - often times what happens, is I'm looking at the concept, but I *interpret* the idea into symbol (words and language) in a way thatt is similar, but needs some adjustments (I see things backwards or future-first, where the order of operations starts goes backwards or something strange. it's basically the same thing as how elijah is JtB or samson has christ imagery -- in that symbolic elements resonate, but it's not exactly the same thing).
+
 #### new keywords
 - (1) attraction
 - (2) expectation
@@ -19,7 +24,6 @@
 - pure-evil always gets defeated by "good"
 
 #### improvements
-- explain that this is the-manual (to the way I conceptualise reality)
 - track usage of "you" (fine inside quotes, but otherwise I want to speak only in 1st person)
 - add glossary/keywords which map all the synonyms to their articles (RegEx matching)
   - symbol: symbolic, symbolises, etc.
