@@ -15,6 +15,5 @@ I finally decided that I want to write out my ideas in a cohesive way. I don't i
 #### concepts:
 - I am [pure-desire](/concepts/pure-desire.md)
 - I am [pure-evil](/concepts/pure-evil.md)
-
-#### triads:
-- [saturnian triad](/archetypes/triad-4.md)
+- [pure-symbol](/concepts/pure-symbol.md)
+- [saturnian-system](/concepts/saturnian-system.md.md)
